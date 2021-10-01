@@ -26,7 +26,7 @@ let away = "";
 let model;
 
 // Load trained model.
-tf.loadLayersModel("https://models.lovesaroha.com/premier-league-fixture-prediction-model/model.json").then(savedModel => {
+tf.loadLayersModel("https://models.lovesaroha.com/Premier-League-Fixture-Prediction-Model/model.json").then(savedModel => {
   model = savedModel;
   document.getElementById("view_id").innerHTML = document.getElementById("homePage_id").innerHTML;
   showHomeTeams();
