@@ -1,5 +1,5 @@
 # Premier-League-Fixture-Prediction
-This model is trained on the fantasy premier league data of season 2020/2021 and predicts outcome of given fixture.<br> Trained model files [lovesaroha/Trained-Models/Premier-League-Fixture-Prediction-Model](https://github.com/lovesaroha/Trained-Models/Premier-League-Fixture-Prediction-Model)<br>
+This model is trained on the fantasy premier league data of season 2020/2021 and predicts outcome of given fixture.<br> Trained model files [lovesaroha/Trained-Models/Premier-League-Fixture-Prediction-Model](https://github.com/lovesaroha/Trained-Models/tree/main/Premier-League-Fixture-Prediction-Model)<br>
 Demo [lovesaroha/Premier-League-Fixture-Prediction](https://ml.lovesaroha.com/Premier-League-Fixture-Prediction)
 
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/78.png)
